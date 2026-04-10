@@ -951,6 +951,7 @@ function buildKeywordGroups(platform){
 }
 
 function buildCharts(meta, catsCfg){
+    if(typeof Chart==='undefined'){console.warn('Chart.js未加载，跳过图表');return;}
     buildCategoryChart(meta?.category_stats||{}, catsCfg);
     buildSentimentChart(meta?.sentiment_stats||{});
 }
