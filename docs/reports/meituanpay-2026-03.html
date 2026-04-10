@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>美团支付客诉分析报告_2026年03月 - 在线预览</title>
+    <style>
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body {
+            -webkit-user-select: none; -moz-user-select: none; user-select: none;
+            -webkit-touch-callout: none;
+            font-family: 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif;
+            background: #f5f5f5; color: #333; line-height: 1.8;
+        }
+        .top-bar {
+            position: sticky; top: 0; z-index: 100;
+            background: #FFD100; color: #333;
+            padding: 12px 24px; display: flex; align-items: center; justify-content: space-between;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+        }
+        .top-bar h1 { font-size: 16px; font-weight: 600; }
+        .top-bar .badge { font-size: 11px; background: rgba(255,255,255,0.2); padding: 3px 12px; border-radius: 12px; }
+        .top-bar .back-btn {
+            color: #333; text-decoration: none; font-size: 13px;
+            padding: 6px 16px; border: 1px solid rgba(255,255,255,0.4); border-radius: 6px; transition: background 0.2s;
+        }
+        .top-bar .back-btn:hover { background: rgba(255,255,255,0.15); }
+        .watermark {
+            position: fixed; top:0;left:0;right:0;bottom:0; pointer-events:none; z-index:50;
+            background-image: repeating-linear-gradient(-45deg,transparent,transparent 200px,rgba(0,0,0,0.012) 200px,rgba(0,0,0,0.012) 201px);
+        }
+        .watermark::after {
+            content: '仅供在线阅读 · FinTech Insight';
+            position: fixed; top:50%;left:50%; transform:translate(-50%,-50%) rotate(-30deg);
+            font-size: 48px; color: rgba(0,0,0,0.03); white-space: nowrap; pointer-events: none; font-weight: 700;
+        }
+        .doc { max-width: 800px; margin: 24px auto; background: #fff; border-radius: 8px; box-shadow: 0 1px 6px rgba(0,0,0,0.08); padding: 48px 56px; position: relative; }
+        .doc h1 { font-size: 24px; font-weight: 700; margin-bottom: 20px; color: #1a1a1a; border-bottom: 3px solid #FFD100; padding-bottom: 12px; }
+        .doc h2 { font-size: 20px; font-weight: 700; margin: 32px 0 14px; color: #1a1a1a; padding-left: 12px; border-left: 4px solid #FFD100; }
+        .doc h3 { font-size: 16px; font-weight: 600; margin: 20px 0 10px; color: #333; }
+        .doc p { margin-bottom: 10px; font-size: 14px; color: #444; text-align: justify; }
+        .doc p.center { text-align: center; }
+        .doc .spacer { height: 12px; }
+        .doc table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 13px; }
+        .doc th { background: #f0f2f5; padding: 10px 12px; border: 1px solid #ddd; font-weight: 600; text-align: left; }
+        .doc td { padding: 8px 12px; border: 1px solid #ddd; }
+        .doc tr:hover td { background: #fafafa; }
+        .kpi-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 16px 0; }
+        .kpi { background: #f8f9fa; border-radius: 8px; padding: 16px; text-align: center; border: 1px solid #eee; }
+        .kpi .val { font-size: 24px; font-weight: 700; color: #FFD100; }
+        .kpi .label { font-size: 12px; color: #888; margin-top: 4px; }
+        .kpi .change { font-size: 11px; margin-top: 2px; }
+        .kpi .change.up { color: #ef4444; }
+        .kpi .change.down { color: #22c55e; }
+        .note-card { background: #fafafa; border: 1px solid #eee; border-radius: 8px; padding: 14px 16px; margin-bottom: 10px; }
+        .note-card .title { font-size: 14px; font-weight: 600; color: #1a1a1a; margin-bottom: 4px; }
+        .note-card .meta { font-size: 12px; color: #888; }
+        .note-card .meta span { margin-right: 12px; }
+        .note-card a { color: #FFD100; text-decoration: none; font-size: 12px; }
+        .note-card a:hover { text-decoration: underline; }
+        .tag { display: inline-block; font-size: 11px; padding: 2px 8px; border-radius: 10px; margin-right: 4px; }
+        .tag.neg { background: rgba(239,68,68,0.1); color: #ef4444; }
+        .tag.pos { background: rgba(34,197,94,0.1); color: #22c55e; }
+        .tag.neu { background: rgba(156,163,175,0.1); color: #6b7280; }
+        .insight-box { background: #fffbeb; border-left: 3px solid #f59e0b; padding: 12px 16px; margin-bottom: 10px; border-radius: 0 8px 8px 0; font-size: 13px; color: #92400e; }
+        .neg-cluster { background: rgba(239,68,68,0.05); border-left: 3px solid #ef4444; padding: 10px 14px; margin-bottom: 8px; border-radius: 0 6px 6px 0; font-size: 13px; color: #991b1b; }
+        .section-nav { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 24px; padding: 12px 16px; background: #f8f9fa; border-radius: 8px; }
+        .section-nav a { font-size: 12px; color: #666; text-decoration: none; padding: 4px 12px; border-radius: 16px; border: 1px solid #ddd; transition: all 0.15s; }
+        .section-nav a:hover { background: #FFD100; color: #333; border-color: #FFD100; }
+        .footer-note { text-align: center; padding: 20px; font-size: 12px; color: #999; }
+        @media print { body { display: none !important; } }
+        @media (max-width: 768px) {
+            .doc { margin: 12px; padding: 24px 20px; }
+            .kpi-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div style="display:flex;align-items:center;gap:12px">
+            <h1>📄 美团支付客诉分析报告_2026年03月</h1>
+            <span class="badge">在线预览</span>
+        </div>
+        <a class="back-btn" href="../" onclick="history.back();return false;">← 返回</a>
+    </div>
+    <div class="watermark"></div>
+    <div class="doc">
+
+        <div class="spacer"></div>
+        <p class="center"><span style="font-weight:700;color:rgb(26,60,110);font-size:28pt">美团支付客诉分析报告</span></p>
+        <p class="center"><span style="color:#666">基于小红书舆情数据 · 2026年3月</span></p>
+        <div class="spacer"></div>
+        <p class="center"><b>分析时间：</b><span style="color:#FFD100">2026年04月02日</span></p>
+        <p class="center"><b>本月样本量：</b><span style="color:#FFD100">603条</span></p>
+        <p class="center"><b>负面率：</b><span style="color:#FFD100">7.2%</span></p>
+        <div class="spacer"></div>
+
+        <div class="section-nav">
+            <a href="#sec1">📋 本月结论</a>
+            <a href="#sec2">📊 新增变化</a>
+            <a href="#sec3">📝 典型案例</a>
+            <a href="#sec4">⚠️ 值得关注</a>
+            <a href="#sec5">🔀 横向对比</a>
+        </div>
+        <h2 id="sec1">一、本月结论</h2>
+        <div class="spacer"></div>
+        <div class="kpi-grid">
+            <div class="kpi"><div class="val">603</div><div class="label">本月声量</div><div class="change up">环比 +293%</div></div>
+            <div class="kpi"><div class="val" style="color:#ef4444">42</div><div class="label">负面帖子</div><div class="change down">负面率变化 -2.9pp</div></div>
+            <div class="kpi"><div class="val" style="color:#22c55e">24</div><div class="label">正面帖子</div><div class="change up">正面率变化 +0.7pp</div></div>
+            <div class="kpi"><div class="val" style="color:#6b7280">516</div><div class="label">中性帖子</div></div>
+        </div>
+        <h3>关键洞察</h3>
+        <div class="insight-box">本月负面率7.2%，较上月下降2.9个百分点，舆情环境有所改善</div>
+        <div class="insight-box">负面舆情集中在「垃圾美团」「美团酒店恶意控价」「商家如何生存」等话题，建议针对性回应</div>
+        <div class="insight-box">本月声量603条，环比增长293%，关注度显著提升</div>
+        <div class="insight-box">「其他」类话题占比最高（320条），是用户讨论的核心焦点</div>
+        <div class="insight-box">正面内容仅占4.1%，建议加强正面舆论引导</div>
+        <h3>话题分类 Top 5</h3>
+        <table><tr><th>分类</th><th>帖子数</th><th>占比</th></tr>
+        <tr><td>其他</td><td>320</td><td>55.0%</td></tr>
+        <tr><td>支付</td><td>202</td><td>34.7%</td></tr>
+        <tr><td>AI</td><td>99</td><td>17.0%</td></tr>
+        <tr><td>客诉</td><td>89</td><td>15.3%</td></tr>
+        <tr><td>海外</td><td>59</td><td>10.1%</td></tr>
+        </table>
+
+        <h2 id="sec2">二、新增变化（与上月对比）</h2>
+        <div class="spacer"></div>
+        <table>
+        <tr><th>指标</th><th>上月</th><th>本月</th><th>变化</th></tr>
+        <tr><td>总声量</td><td>148</td><td>603</td><td>+293%</td></tr>
+        <tr><td>负面率</td><td>10.1%</td><td>7.2%</td><td>-2.9pp</td></tr>
+        <tr><td>正面率</td><td>3.4%</td><td>4.1%</td><td>+0.7pp</td></tr>
+        </table>
+        <h3>变化解读</h3>
+        <p>本月声量603条，较上月148条<b>增长+293%</b>，关注度显著提升。</p>
+        <p>负面率从10.1%降至7.2%（-2.9pp），<b style="color:#22c55e">负面情绪有所改善</b>。</p>
+        <h3>本月负面高频词</h3>
+        <p><span class="tag neg">垃圾美团 (2)</span> <span class="tag neg">美团酒店恶意控价 (2)</span> <span class="tag neg">商家如何生存 (2)</span> <span class="tag neg">大众美团新型诈骗注意 (1)</span> <span class="tag neg">才知道在大众点评也能遇到骗子 (1)</span> </p>
+
+        <h2 id="sec3">三、典型案例</h2>
+        <div class="spacer"></div>
+        <h3>🔥 最高赞帖子</h3>
+        <div class="note-card">
+            <div class="title">某团外卖配送时间</div>
+            <div class="meta">
+                <span>👍 3,436</span>
+                <span>💬 324</span>
+                <span>⭐ 124</span>
+                <span>by taeyeon的鼻孔</span>
+                <span>2026-03-21 00:16</span>
+                <span class="tag neu">中性</span>
+            </div>
+            <a href="https://www.xiaohongshu.com/explore/69bd72e6000000001e00e485?xsec_token=AB1WbeetPJZP7JFiW5Kd8GN5aEV8lPCHkIs0lrTdeCa8w=&amp;xsec_source=pc_search" target="_blank" rel="noopener">查看原帖 →</a>
+        </div>
+        <h3>💬 最热讨论帖子</h3>
+        <div class="note-card">
+            <div class="title">3.24周二，外卖口令更新！</div>
+            <div class="meta">
+                <span>👍 221</span>
+                <span>💬 2,503</span>
+                <span>⭐ 56</span>
+                <span>by 小新新</span>
+                <span>2026-03-16 09:59</span>
+                <span class="tag neu">中性</span>
+            </div>
+            <a href="https://www.xiaohongshu.com/explore/69b763e9000000001d0193a3?xsec_token=ABvSwj1XmrcshxB2i78h-kzBNosD_6hwdsXjl6RfAQ4KU=&amp;xsec_source=pc_search" target="_blank" rel="noopener">查看原帖 →</a>
+        </div>
+        <h3>📊 本月互动量 Top 5</h3>
+        <div class="note-card">
+            <div class="title">1. 某团外卖配送时间</div>
+            <div class="meta">
+                <span>👍 3,436</span>
+                <span>💬 324</span>
+                <span>⭐ 124</span>
+                <span class="tag neu">中性</span>
+            </div>
+            <a href="https://www.xiaohongshu.com/explore/69bd72e6000000001e00e485?xsec_token=AB1WbeetPJZP7JFiW5Kd8GN5aEV8lPCHkIs0lrTdeCa8w=&amp;xsec_source=pc_search" target="_blank" rel="noopener">查看原帖 →</a>
+        </div>
+        <div class="note-card">
+            <div class="title">2. 美团会员自动续费坑</div>
+            <div class="meta">
+                <span>👍 2,593</span>
+                <span>💬 618</span>
+                <span>⭐ 152</span>
+                <span class="tag neg">负面</span>
+            </div>
+            <a href="https://www.xiaohongshu.com/explore/7652761cac904354" target="_blank" rel="noopener">查看原帖 →</a>
+        </div>
+        <div class="note-card">
+            <div class="title">3. 炸裂：杨浦法院认定美团与B站存在竞争关系</div>
+            <div class="meta">
+                <span>👍 2,455</span>
+                <span>💬 582</span>
+                <span>⭐ 554</span>
+                <span class="tag neu">中性</span>
+            </div>
+            <a href="https://www.xiaohongshu.com/explore/69a3cc5d000000001a034089?xsec_token=ABuSu--aQCGlTrHVduAoMAgmGEhSaqbmYiwl7AexrhuNE=&amp;xsec_source=pc_search" target="_blank" rel="noopener">查看原帖 →</a>
+        </div>
+        <div class="note-card">
+            <div class="title">4. 美团申诉使用攻略</div>
+            <div class="meta">
+                <span>👍 2,301</span>
+                <span>💬 62</span>
+                <span>⭐ 716</span>
+                <span class="tag neg">负面</span>
+            </div>
+            <a href="https://www.xiaohongshu.com/explore/5eba11a5f4870f8d" target="_blank" rel="noopener">查看原帖 →</a>
+        </div>
+        <div class="note-card">
+            <div class="title">5. 美团外卖红包从哪领？</div>
+            <div class="meta">
+                <span>👍 2,047</span>
+                <span>💬 455</span>
+                <span>⭐ 354</span>
+                <span class="tag pos">正面</span>
+            </div>
+            <a href="https://www.xiaohongshu.com/explore/6583d4a8f73c06e0" target="_blank" rel="noopener">查看原帖 →</a>
+        </div>
+        <h3>🚨 负面情绪代表帖</h3>
+        <div class="note-card">
+            <div class="title">美团会员自动续费坑</div>
+            <div class="meta">
+                <span>👍 2,593</span>
+                <span>💬 618</span>
+                <span>⭐ 152</span>
+                <span>by 消费降级中</span>
+                <span>2026-03-09 12:04</span>
+                <span class="tag neg">负面</span>
+            </div>
+            <a href="https://www.xiaohongshu.com/explore/7652761cac904354" target="_blank" rel="noopener">查看原帖 →</a>
+        </div>
+        <div class="note-card">
+            <div class="title">美团申诉使用攻略</div>
+            <div class="meta">
+                <span>👍 2,301</span>
+                <span>💬 62</span>
+                <span>⭐ 716</span>
+                <span>by 科技圈老王</span>
+                <span>2026-03-07 01:10</span>
+                <span class="tag neg">负面</span>
+            </div>
+            <a href="https://www.xiaohongshu.com/explore/5eba11a5f4870f8d" target="_blank" rel="noopener">查看原帖 →</a>
+        </div>
+        <div class="note-card">
+            <div class="title">我的美团打车经历</div>
+            <div class="meta">
+                <span>👍 718</span>
+                <span>💬 82</span>
+                <span>⭐ 232</span>
+                <span>by 小镇青年</span>
+                <span>2026-03-13 22:53</span>
+                <span class="tag neg">负面</span>
+            </div>
+            <a href="https://www.xiaohongshu.com/explore/24f6815311451cf6" target="_blank" rel="noopener">查看原帖 →</a>
+        </div>
+
+        <h2 id="sec4">四、值得关注的问题</h2>
+        <div class="spacer"></div>
+        <h3>负面热点聚类</h3>
+        <div class="neg-cluster">美团会员自动续费坑</div>
+        <div class="neg-cluster">美团申诉使用攻略</div>
+        <div class="neg-cluster">我的美团打车经历</div>
+        <h3>热点话题追踪</h3>
+        <table><tr><th>话题</th><th>帖子数</th><th>占比</th></tr>
+        <tr><td>🤖 AI相关</td><td>99</td><td>17.0%</td></tr>
+        <tr><td>🌏 海外/跨境</td><td>59</td><td>10.1%</td></tr>
+        </table>
+
+        <h2 id="sec5">五、横向对比</h2>
+        <div class="spacer"></div>
+        <div class="insight-box" style="background:#f0f9ff;border-color:#3b82f6;color:#1e40af">2026年3月，微信支付以766条声量领跑；京东支付负面率最高达13.7%，需重点关注。</div>
+        <table>
+        <tr><th>平台</th><th>声量</th><th>正面率</th><th>负面率</th><th>客诉率</th></tr>
+        <tr><td>微信支付</td><td>766</td><td>3.8%</td><td>8.4%</td><td>11.6%</td></tr>
+        <tr><td>支付宝</td><td>700</td><td>6.0%</td><td>8.6%</td><td>9.9%</td></tr>
+        <tr><td>抖音支付</td><td>228</td><td>5.3%</td><td>12.3%</td><td>21.9%</td></tr>
+        <tr><td>京东支付</td><td>226</td><td>1.8%</td><td>13.7%</td><td>19.5%</td></tr>
+        <tr style="font-weight:700;background:#f8f9fa"><td>★ 美团支付</td><td>603</td><td>4.1%</td><td>7.2%</td><td>15.3%</td></tr>
+        <tr><td>云闪付</td><td>234</td><td>9.0%</td><td>7.3%</td><td>17.1%</td></tr>
+        </table>
+
+        <div class="spacer"></div>
+        <div class="spacer"></div>
+        <p class="center" style="color:#aaa;font-size:12px">— 报告结束 —</p>
+        <p class="center" style="color:#bbb;font-size:11px">报告生成时间：2026-04-02 15:29 | 数据源：小红书舆情爬取系统 | FinTech Insight</p>
+    </div>
+    <div class="footer-note">本报告由 FinTech Insight 自动生成，仅供内部研究参考</div>
+</body>
+</html>
