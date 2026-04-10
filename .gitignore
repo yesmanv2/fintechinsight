@@ -1,19 +1,6 @@
-# 系统文件
-.DS_Store
-
-# 依赖
-node_modules/
-__pycache__/
-
-# 日志
-*.log
-
-# Cookie（敏感）
-cookie.txt
-
-# CodeBuddy 内部
-.codebuddy/
-
-# 临时/进度文件
-.crawl_*_progress.json
-safe_crawl_progress.json
+# 只部署 docs/ 目录到 GitHub Pages
+# 其他所有文件不上传
+*
+!docs/
+!docs/**
+!.gitignore
