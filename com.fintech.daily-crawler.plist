@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.fintech.daily-crawler</string>
+    
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/zimyin/CodeBuddy/20260317215615/run_daily_crawl.sh</string>
+    </array>
+    
+    <!-- 每天上午10点运行 -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>10</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+    
+    <key>WorkingDirectory</key>
+    <string>/Users/zimyin/CodeBuddy/20260317215615</string>
+    
+    <key>StandardOutPath</key>
+    <string>/Users/zimyin/CodeBuddy/20260317215615/cron_crawl.log</string>
+    
+    <key>StandardErrorPath</key>
+    <string>/Users/zimyin/CodeBuddy/20260317215615/cron_crawl_error.log</string>
+    
+    <!-- 如果错过了定时（电脑关机），登录后立即补运行一次 -->
+    <key>RunAtLoad</key>
+    <true/>
+    
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/usr/local/bin:/usr/bin:/bin:/opt/homebrew/bin</string>
+    </dict>
+</dict>
+</plist>

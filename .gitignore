@@ -1,6 +1,29 @@
-# 只部署 docs/ 目录到 GitHub Pages
-# 其他所有文件不上传
-*
-!docs/
-!docs/**
-!.gitignore
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Build outputs
+*.log
+
+# Sensitive data (keep for private backup, just noting)
+# cookie.txt, proxy.txt are included as this is a private repo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Large data JSONs (keep for backup)
+# *.json files are included
+
+# .git history from other repos
+.netlify/
+.playwright-cli/
+.workbuddy/
+.crawl_*.json
+.safe_crawl_progress.json

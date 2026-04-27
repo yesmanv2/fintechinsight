@@ -1,0 +1,2347 @@
+[
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "2026年Q1小红书舆情深度研究",
+        "bold": true
+      }
+    ],
+    "text": "2026年Q1小红书舆情深度研究"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "6大支付平台交叉对比分析报告",
+        "bold": false
+      }
+    ],
+    "text": "6大支付平台交叉对比分析报告"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "基于 11,210 条小红书真实笔记  |  数据截止 2026.03.26",
+        "bold": false
+      }
+    ],
+    "text": "基于 11,210 条小红书真实笔记  |  数据截止 2026.03.26"
+  },
+  {
+    "heading": "Heading1",
+    "is_list": false,
+    "runs": [
+      {
+        "text": "一、核心判断",
+        "bold": true
+      }
+    ],
+    "text": "一、核心判断"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "1. 微信支付声量第一且负面率最低，但“理财”和“AI风控”是两大难题。",
+        "bold": true
+      },
+      {
+        "text": "微信支付以 3,270 条笔记位居声量第一，且在头部平台中负面率最低（10.9%）。其AI话题渗透率达22.7%，远超所有竞争对手，NFC境外支付“微信当VISA刷”也获得用户高度好评。但两个短板很突出：理财通负面率高达21.9%，用户普遍认为产品力不足、收益不及预期；AI风控误判事件互动量达7,397，是当前最大的舆情风险点。",
+        "bold": false
+      }
+    ],
+    "text": "1. 微信支付声量第一且负面率最低，但“理财”和“AI风控”是两大难题。微信支付以 3,270 条笔记位居声量第一，且在头部平台中负面率最低（10.9%）。其AI话题渗透率达22.7%，远超所有竞争对手，NFC境外支付“微信当VISA刷”也获得用户高度好评。但两个短板很突出：理财通负面率高达21.9%，用户普遍认为产品力不足、收益不及预期；AI风控误判事件互动量达7,397，是当前最大的舆情风险点。"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "2. 支付宝的“金融平台”心智份额正在被侵蚀。",
+        "bold": true
+      },
+      {
+        "text": "支付宝在贷款和理财话题上占据压倒性优势（贷款9.4%、理财9.0%），但其贷款话题负面率达13.2%，花呗退款方式变更引发用户不信任。而京东金融和微信分付在用户讨论中的存在感正在增加，潜在分流已开始。此外“APP越来越臃肿”的吐槽互动量高达9,291，产品体验退化是其最大风险。",
+        "bold": false
+      }
+    ],
+    "text": "2. 支付宝的“金融平台”心智份额正在被侵蚀。支付宝在贷款和理财话题上占据压倒性优势（贷款9.4%、理财9.0%），但其贷款话题负面率达13.2%，花呗退款方式变更引发用户不信任。而京东金融和微信分付在用户讨论中的存在感正在增加，潜在分流已开始。此外“APP越来越臃肿”的吐槽互动量高达9,291，产品体验退化是其最大风险。"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "3. 抖音支付的“电商支付信任”问题是其最大增长瓶颈。",
+        "bold": true
+      },
+      {
+        "text": "负面率最高（14.6%）且集中在“直播间冲动消费”“假货维权”等场景。用户对抖音支付的不信任本质上是对抖音电商交易安全的不信任，这限制了其从“内容支付”向“综合金融”升级的可能性。不过豆包的现象级热帖（赞14.5万）说明字节在AI内容上有强大的用户触达能力。",
+        "bold": false
+      }
+    ],
+    "text": "3. 抖音支付的“电商支付信任”问题是其最大增长瓶颈。负面率最高（14.6%）且集中在“直播间冲动消费”“假货维权”等场景。用户对抖音支付的不信任本质上是对抖音电商交易安全的不信任，这限制了其从“内容支付”向“综合金融”升级的可能性。不过豆包的现象级热帖（赞14.5万）说明字节在AI内容上有强大的用户触达能力。"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "4. 支付行业正在经历一轮“AI风控信任危机”。",
+        "bold": true
+      },
+      {
+        "text": "微信支付和云闪付的TOP负面事件均与“AI风控误判”直接相关，且互动量极高。这不是个别平台的问题，而是智能风控在落地过程中的行业性矛盾——用户对“被算法误伤”的愤怒远超对传统客服问题的不满。",
+        "bold": false
+      }
+    ],
+    "text": "4. 支付行业正在经历一轮“AI风控信任危机”。微信支付和云闪付的TOP负面事件均与“AI风控误判”直接相关，且互动量极高。这不是个别平台的问题，而是智能风控在落地过程中的行业性矛盾——用户对“被算法误伤”的愤怒远超对传统客服问题的不满。"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "5. 海外市场已成为各平台差异化竞争的新战场。",
+        "bold": true
+      },
+      {
+        "text": "美团KeeTa在香港外卖市场口碑极佳，微信NFC境外支付获好评，TikTok Shop全球化带动抖音支付讨论——三条完全不同的出海路径正在同时展开。而云闪付在海外话题上完全缺席，与其“62开头卡”的境外优势严重脱节。",
+        "bold": false
+      }
+    ],
+    "text": "5. 海外市场已成为各平台差异化竞争的新战场。美团KeeTa在香港外卖市场口碑极佳，微信NFC境外支付获好评，TikTok Shop全球化带动抖音支付讨论——三条完全不同的出海路径正在同时展开。而云闪付在海外话题上完全缺席，与其“62开头卡”的境外优势严重脱节。"
+  },
+  {
+    "heading": "Heading1",
+    "is_list": false,
+    "runs": [
+      {
+        "text": "二、声量与情感全景",
+        "bold": true
+      }
+    ],
+    "text": "二、声量与情感全景"
+  },
+  {
+    "heading": "Heading2",
+    "is_list": false,
+    "runs": [
+      {
+        "text": "2.1 各平台基础数据",
+        "bold": true
+      }
+    ],
+    "text": "2.1 各平台基础数据"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "平台",
+        "bold": true
+      }
+    ],
+    "text": "平台"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "总量",
+        "bold": true
+      }
+    ],
+    "text": "总量"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "负面率",
+        "bold": true
+      }
+    ],
+    "text": "负面率"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "正面率",
+        "bold": true
+      }
+    ],
+    "text": "正面率"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "负面数",
+        "bold": true
+      }
+    ],
+    "text": "负面数"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "正面数",
+        "bold": true
+      }
+    ],
+    "text": "正面数"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "客诉占比",
+        "bold": true
+      }
+    ],
+    "text": "客诉占比"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "声量占比",
+        "bold": true
+      }
+    ],
+    "text": "声量占比"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "微信支付",
+        "bold": true
+      }
+    ],
+    "text": "微信支付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "3,270",
+        "bold": true
+      }
+    ],
+    "text": "3,270"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "10.9%",
+        "bold": true
+      }
+    ],
+    "text": "10.9%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "8.1%",
+        "bold": true
+      }
+    ],
+    "text": "8.1%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "358",
+        "bold": true
+      }
+    ],
+    "text": "358"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "264",
+        "bold": true
+      }
+    ],
+    "text": "264"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "1.1%",
+        "bold": true
+      }
+    ],
+    "text": "1.1%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "29.2%",
+        "bold": true
+      }
+    ],
+    "text": "29.2%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "支付宝",
+        "bold": true
+      }
+    ],
+    "text": "支付宝"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "3,159",
+        "bold": true
+      }
+    ],
+    "text": "3,159"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "12.7%",
+        "bold": true
+      }
+    ],
+    "text": "12.7%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "9.6%",
+        "bold": true
+      }
+    ],
+    "text": "9.6%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "400",
+        "bold": true
+      }
+    ],
+    "text": "400"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "304",
+        "bold": true
+      }
+    ],
+    "text": "304"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "0%",
+        "bold": true
+      }
+    ],
+    "text": "0%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "28.2%",
+        "bold": true
+      }
+    ],
+    "text": "28.2%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "美团支付",
+        "bold": true
+      }
+    ],
+    "text": "美团支付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "1,787",
+        "bold": true
+      }
+    ],
+    "text": "1,787"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "19.8%",
+        "bold": true
+      }
+    ],
+    "text": "19.8%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "9.1%",
+        "bold": true
+      }
+    ],
+    "text": "9.1%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "353",
+        "bold": true
+      }
+    ],
+    "text": "353"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "163",
+        "bold": true
+      }
+    ],
+    "text": "163"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "6.7%",
+        "bold": true
+      }
+    ],
+    "text": "6.7%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "15.9%",
+        "bold": true
+      }
+    ],
+    "text": "15.9%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "抖音支付",
+        "bold": true
+      }
+    ],
+    "text": "抖音支付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "1,063",
+        "bold": true
+      }
+    ],
+    "text": "1,063"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "18.9%",
+        "bold": true
+      }
+    ],
+    "text": "18.9%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "8.7%",
+        "bold": true
+      }
+    ],
+    "text": "8.7%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "201",
+        "bold": true
+      }
+    ],
+    "text": "201"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "93",
+        "bold": true
+      }
+    ],
+    "text": "93"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "10.9%",
+        "bold": true
+      }
+    ],
+    "text": "10.9%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "9.5%",
+        "bold": true
+      }
+    ],
+    "text": "9.5%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "云闪付",
+        "bold": true
+      }
+    ],
+    "text": "云闪付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "998",
+        "bold": true
+      }
+    ],
+    "text": "998"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "11.1%",
+        "bold": true
+      }
+    ],
+    "text": "11.1%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "14.1%",
+        "bold": true
+      }
+    ],
+    "text": "14.1%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "111",
+        "bold": true
+      }
+    ],
+    "text": "111"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "141",
+        "bold": true
+      }
+    ],
+    "text": "141"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "0%",
+        "bold": true
+      }
+    ],
+    "text": "0%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "8.9%",
+        "bold": true
+      }
+    ],
+    "text": "8.9%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "京东支付",
+        "bold": true
+      }
+    ],
+    "text": "京东支付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "933",
+        "bold": true
+      }
+    ],
+    "text": "933"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "12.4%",
+        "bold": true
+      }
+    ],
+    "text": "12.4%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "5.0%",
+        "bold": true
+      }
+    ],
+    "text": "5.0%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "116",
+        "bold": true
+      }
+    ],
+    "text": "116"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "47",
+        "bold": true
+      }
+    ],
+    "text": "47"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "0%",
+        "bold": true
+      }
+    ],
+    "text": "0%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "8.3%",
+        "bold": true
+      }
+    ],
+    "text": "8.3%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "微信支付和支付宝合计占总声量57.3%，双寡头格局稳固。但值得注意的是：云闪付是唯一“正面率大于负面率”的平台（14.1% vs 11.1%），其公交地铁优惠场景构建了独特的正面口碑壁垒。抖音支付和美团支付的负面率均接近20%，显著高于第一梯队，说明场景电商平台在支付环节的用户信任度明显不足。",
+        "bold": false
+      }
+    ],
+    "text": "微信支付和支付宝合计占总声量57.3%，双寡头格局稳固。但值得注意的是：云闪付是唯一“正面率大于负面率”的平台（14.1% vs 11.1%），其公交地铁优惠场景构建了独特的正面口碑壁垒。抖音支付和美团支付的负面率均接近20%，显著高于第一梯队，说明场景电商平台在支付环节的用户信任度明显不足。"
+  },
+  {
+    "heading": "Heading2",
+    "is_list": false,
+    "runs": [
+      {
+        "text": "2.2 3月趋势变化",
+        "bold": true
+      }
+    ],
+    "text": "2.2 3月趋势变化"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "平台",
+        "bold": true
+      }
+    ],
+    "text": "平台"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "1-2月负面率",
+        "bold": true
+      }
+    ],
+    "text": "1-2月负面率"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "3月负面率",
+        "bold": true
+      }
+    ],
+    "text": "3月负面率"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "变化",
+        "bold": true
+      }
+    ],
+    "text": "变化"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "3月负面焦点转移",
+        "bold": true
+      }
+    ],
+    "text": "3月负面焦点转移"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "判断",
+        "bold": true
+      }
+    ],
+    "text": "判断"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "抖音支付",
+        "bold": true
+      }
+    ],
+    "text": "抖音支付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "17.7%",
+        "bold": true
+      }
+    ],
+    "text": "17.7%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "12.3%",
+        "bold": true
+      }
+    ],
+    "text": "12.3%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "↓ 5.4pp",
+        "bold": true
+      }
+    ],
+    "text": "↓ 5.4pp"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "客诉类大幅上升",
+        "bold": true
+      }
+    ],
+    "text": "客诉类大幅上升"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "转形中",
+        "bold": true
+      }
+    ],
+    "text": "转形中"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "美团支付",
+        "bold": true
+      }
+    ],
+    "text": "美团支付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "12.2%",
+        "bold": true
+      }
+    ],
+    "text": "12.2%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "7.2%",
+        "bold": true
+      }
+    ],
+    "text": "7.2%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "↓ 5.0pp",
+        "bold": true
+      }
+    ],
+    "text": "↓ 5.0pp"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "商家端诉求上升",
+        "bold": true
+      }
+    ],
+    "text": "商家端诉求上升"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "改善中",
+        "bold": true
+      }
+    ],
+    "text": "改善中"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "云闪付",
+        "bold": true
+      }
+    ],
+    "text": "云闪付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "9.9%",
+        "bold": true
+      }
+    ],
+    "text": "9.9%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "7.3%",
+        "bold": true
+      }
+    ],
+    "text": "7.3%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "↓ 2.6pp",
+        "bold": true
+      }
+    ],
+    "text": "↓ 2.6pp"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "国补投诉新增",
+        "bold": true
+      }
+    ],
+    "text": "国补投诉新增"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "稳定",
+        "bold": true
+      }
+    ],
+    "text": "稳定"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "支付宝",
+        "bold": true
+      }
+    ],
+    "text": "支付宝"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "7.8%",
+        "bold": true
+      }
+    ],
+    "text": "7.8%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "8.6%",
+        "bold": true
+      }
+    ],
+    "text": "8.6%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "↑ 0.8pp",
+        "bold": true
+      }
+    ],
+    "text": "↑ 0.8pp"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "贷款负面翻倍增长",
+        "bold": true
+      }
+    ],
+    "text": "贷款负面翻倍增长"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "承压",
+        "bold": true
+      }
+    ],
+    "text": "承压"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "微信支付",
+        "bold": true
+      }
+    ],
+    "text": "微信支付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "7.2%",
+        "bold": true
+      }
+    ],
+    "text": "7.2%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "8.4%",
+        "bold": true
+      }
+    ],
+    "text": "8.4%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "↑ 1.2pp",
+        "bold": true
+      }
+    ],
+    "text": "↑ 1.2pp"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "支付类负面激增5倍",
+        "bold": true
+      }
+    ],
+    "text": "支付类负面激增5倍"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "承压",
+        "bold": true
+      }
+    ],
+    "text": "承压"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "京东支付",
+        "bold": true
+      }
+    ],
+    "text": "京东支付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "11.6%",
+        "bold": true
+      }
+    ],
+    "text": "11.6%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "13.7%",
+        "bold": true
+      }
+    ],
+    "text": "13.7%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "↑ 2.1pp",
+        "bold": true
+      }
+    ],
+    "text": "↑ 2.1pp"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "支付+其他类并发",
+        "bold": true
+      }
+    ],
+    "text": "支付+其他类并发"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "恶化",
+        "bold": true
+      }
+    ],
+    "text": "恶化"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "各平台声量在3月均大幅上升，主要受“两会”期间金融政策讨论和315消费者权益日双重驱动。负面率变化更有价值：抖音、美团、云闪付三家负面率均下降，显示舆论环境改善；而微信支付、支付宝、京东支付三家负面率上升，说明头部平台在用户规模越大时，负面舆情的绝对量和增速也越难控制。",
+        "bold": false
+      }
+    ],
+    "text": "各平台声量在3月均大幅上升，主要受“两会”期间金融政策讨论和315消费者权益日双重驱动。负面率变化更有价值：抖音、美团、云闪付三家负面率均下降，显示舆论环境改善；而微信支付、支付宝、京东支付三家负面率上升，说明头部平台在用户规模越大时，负面舆情的绝对量和增速也越难控制。"
+  },
+  {
+    "heading": "Heading1",
+    "is_list": false,
+    "runs": [
+      {
+        "text": "三、负面舆情焦点对比",
+        "bold": true
+      }
+    ],
+    "text": "三、负面舆情焦点对比"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "各平台的负面焦点呈现明显的“场景化”差异，背后反映的是各平台的业务基因与用户结构差异：",
+        "bold": false
+      }
+    ],
+    "text": "各平台的负面焦点呈现明显的“场景化”差异，背后反映的是各平台的业务基因与用户结构差异："
+  },
+  {
+    "heading": null,
+    "is_list": true,
+    "runs": [
+      {
+        "text": "微信支付：“AI风控误判”（互动7,397）、提现手续费、分付使用门槛。用户的核心焦虑是“账户安全感”，微信作为社交工具的信任基础被动摇",
+        "bold": false
+      }
+    ],
+    "text": "微信支付：“AI风控误判”（互动7,397）、提现手续费、分付使用门槛。用户的核心焦虑是“账户安全感”，微信作为社交工具的信任基础被动摇"
+  },
+  {
+    "heading": null,
+    "is_list": true,
+    "runs": [
+      {
+        "text": "支付宝：“APP越来越臃肿”（互动9,291）、余额宝收益下降、花呗退款变更。用户感知到的是“产品在变差”，这对工具型产品是致命的",
+        "bold": false
+      }
+    ],
+    "text": "支付宝：“APP越来越臃肿”（互动9,291）、余额宝收益下降、花呗退款变更。用户感知到的是“产品在变差”，这对工具型产品是致命的"
+  },
+  {
+    "heading": null,
+    "is_list": true,
+    "runs": [
+      {
+        "text": "抖音支付：直播间冲动消费（互动6,910）、假货维权、自动续费。支付信任危机本质上是电商交易信任危机的延伸",
+        "bold": false
+      }
+    ],
+    "text": "抖音支付：直播间冲动消费（互动6,910）、假货维权、自动续费。支付信任危机本质上是电商交易信任危机的延伸"
+  },
+  {
+    "heading": null,
+    "is_list": true,
+    "runs": [
+      {
+        "text": "美团支付：会员自动续费（互动3,363）、商家压榜、鱻鱼收费。“平台抽成与用户权益”的结构性矛盾",
+        "bold": false
+      }
+    ],
+    "text": "美团支付：会员自动续费（互动3,363）、商家压榜、鱻鱼收费。“平台抽成与用户权益”的结构性矛盾"
+  },
+  {
+    "heading": null,
+    "is_list": true,
+    "runs": [
+      {
+        "text": "京东支付：莫名扣费、催收争议、起诉维权。金融服务合规性受到质疑，且用户的“维权意识”明显高于其他平台",
+        "bold": false
+      }
+    ],
+    "text": "京东支付：莫名扣费、催收争议、起诉维权。金融服务合规性受到质疑，且用户的“维权意识”明显高于其他平台"
+  },
+  {
+    "heading": null,
+    "is_list": true,
+    "runs": [
+      {
+        "text": "云闪付：红包故障（互动9,020）、APP闪退、国补投诉。技术稳定性是最大短板，也是唯一不涉及“信任”而是“能用”的问题",
+        "bold": false
+      }
+    ],
+    "text": "云闪付：红包故障（互动9,020）、APP闪退、国补投诉。技术稳定性是最大短板，也是唯一不涉及“信任”而是“能用”的问题"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "小结：",
+        "bold": true
+      },
+      {
+        "text": "微信支付和云闪付的负面焦点是“AI/算法”，支付宝是“产品体验”，抖音是“交易信任”，美团是“平台规则”，京东是“合规性”。各自的痛点完全不同，应对策略也不应相同。",
+        "bold": false
+      }
+    ],
+    "text": "小结：微信支付和云闪付的负面焦点是“AI/算法”，支付宝是“产品体验”，抖音是“交易信任”，美团是“平台规则”，京东是“合规性”。各自的痛点完全不同，应对策略也不应相同。"
+  },
+  {
+    "heading": "Heading1",
+    "is_list": false,
+    "runs": [
+      {
+        "text": "四、贷款生态对比",
+        "bold": true
+      }
+    ],
+    "text": "四、贷款生态对比"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "平台",
+        "bold": true
+      }
+    ],
+    "text": "平台"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "贷款话题量",
+        "bold": true
+      }
+    ],
+    "text": "贷款话题量"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "占比",
+        "bold": true
+      }
+    ],
+    "text": "占比"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "负面率",
+        "bold": true
+      }
+    ],
+    "text": "负面率"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "用户讨论焦点",
+        "bold": true
+      }
+    ],
+    "text": "用户讨论焦点"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "支付宝",
+        "bold": true
+      }
+    ],
+    "text": "支付宝"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "106条",
+        "bold": true
+      }
+    ],
+    "text": "106条"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "9.4%",
+        "bold": true
+      }
+    ],
+    "text": "9.4%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "13.2%",
+        "bold": true
+      }
+    ],
+    "text": "13.2%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "花呗退款方式变更、余额宝体验金、养老保险缴纳",
+        "bold": true
+      }
+    ],
+    "text": "花呗退款方式变更、余额宝体验金、养老保险缴纳"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "微信支付",
+        "bold": true
+      }
+    ],
+    "text": "微信支付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "33条",
+        "bold": true
+      }
+    ],
+    "text": "33条"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "2.7%",
+        "bold": true
+      }
+    ],
+    "text": "2.7%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "3.0%",
+        "bold": true
+      }
+    ],
+    "text": "3.0%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "分付开通门槛高、分付利率争议、分期使用困惑",
+        "bold": true
+      }
+    ],
+    "text": "分付开通门槛高、分付利率争议、分期使用困惑"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "京东支付",
+        "bold": true
+      }
+    ],
+    "text": "京东支付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "22条",
+        "bold": true
+      }
+    ],
+    "text": "22条"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "6.3%",
+        "bold": true
+      }
+    ],
+    "text": "6.3%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "4.5%",
+        "bold": true
+      }
+    ],
+    "text": "4.5%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "京东金条、二类卡比较、金融客诉",
+        "bold": true
+      }
+    ],
+    "text": "京东金条、二类卡比较、金融客诉"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "抖音支付",
+        "bold": true
+      }
+    ],
+    "text": "抖音支付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "18条",
+        "bold": true
+      }
+    ],
+    "text": "18条"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "4.5%",
+        "bold": true
+      }
+    ],
+    "text": "4.5%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "0%",
+        "bold": true
+      }
+    ],
+    "text": "0%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "放心借协商、免息期使用攻略",
+        "bold": true
+      }
+    ],
+    "text": "放心借协商、免息期使用攻略"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "云闪付",
+        "bold": true
+      }
+    ],
+    "text": "云闪付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "0",
+        "bold": true
+      }
+    ],
+    "text": "0"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "0%",
+        "bold": true
+      }
+    ],
+    "text": "0%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "-",
+        "bold": true
+      }
+    ],
+    "text": "-"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "无贷款相关讨论",
+        "bold": true
+      }
+    ],
+    "text": "无贷款相关讨论"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "美团支付",
+        "bold": true
+      }
+    ],
+    "text": "美团支付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "0",
+        "bold": true
+      }
+    ],
+    "text": "0"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "0%",
+        "bold": true
+      }
+    ],
+    "text": "0%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "-",
+        "bold": true
+      }
+    ],
+    "text": "-"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "无贷款相关讨论",
+        "bold": true
+      }
+    ],
+    "text": "无贷款相关讨论"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "支付宝在贷款场景中占据压倒性优势，但其负面率也最高（13.2%）。这是一个典型的“规模大则披露多”的现象——花呗退款方式变更在315前后引发集中讨论。抖音支付的“放心借”目前负面率为0%，说明其贷款业务还在早期口碑建设阶段，尚未进入“规模化披露”周期。",
+        "bold": false
+      }
+    ],
+    "text": "支付宝在贷款场景中占据压倒性优势，但其负面率也最高（13.2%）。这是一个典型的“规模大则披露多”的现象——花呗退款方式变更在315前后引发集中讨论。抖音支付的“放心借”目前负面率为0%，说明其贷款业务还在早期口碑建设阶段，尚未进入“规模化披露”周期。"
+  },
+  {
+    "heading": "Heading1",
+    "is_list": false,
+    "runs": [
+      {
+        "text": "五、理财生态对比",
+        "bold": true
+      }
+    ],
+    "text": "五、理财生态对比"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "平台",
+        "bold": true
+      }
+    ],
+    "text": "平台"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "理财话题量",
+        "bold": true
+      }
+    ],
+    "text": "理财话题量"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "占比",
+        "bold": true
+      }
+    ],
+    "text": "占比"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "负面率",
+        "bold": true
+      }
+    ],
+    "text": "负面率"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "用户讨论焦点",
+        "bold": true
+      }
+    ],
+    "text": "用户讨论焦点"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "支付宝",
+        "bold": true
+      }
+    ],
+    "text": "支付宝"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "101条",
+        "bold": true
+      }
+    ],
+    "text": "101条"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "9.0%",
+        "bold": true
+      }
+    ],
+    "text": "9.0%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "3.0%",
+        "bold": true
+      }
+    ],
+    "text": "3.0%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "余额宝收益、工资转余额宝与征信、好医保评测",
+        "bold": true
+      }
+    ],
+    "text": "余额宝收益、工资转余额宝与征信、好医保评测"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "微信支付",
+        "bold": true
+      }
+    ],
+    "text": "微信支付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "32条",
+        "bold": true
+      }
+    ],
+    "text": "32条"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "2.6%",
+        "bold": true
+      }
+    ],
+    "text": "2.6%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "21.9%",
+        "bold": true
+      }
+    ],
+    "text": "21.9%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "理财通会员体系、收益不及预期、产品力不足",
+        "bold": true
+      }
+    ],
+    "text": "理财通会员体系、收益不及预期、产品力不足"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "京东支付",
+        "bold": true
+      }
+    ],
+    "text": "京东支付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "27条",
+        "bold": true
+      }
+    ],
+    "text": "27条"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "7.8%",
+        "bold": true
+      }
+    ],
+    "text": "7.8%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "7.4%",
+        "bold": true
+      }
+    ],
+    "text": "7.4%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "积存金手续费、黄金收益分享、理财产品比较",
+        "bold": true
+      }
+    ],
+    "text": "积存金手续费、黄金收益分享、理财产品比较"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "抖音支付",
+        "bold": true
+      }
+    ],
+    "text": "抖音支付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "0",
+        "bold": true
+      }
+    ],
+    "text": "0"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "0%",
+        "bold": true
+      }
+    ],
+    "text": "0%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "-",
+        "bold": true
+      }
+    ],
+    "text": "-"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "无理财相关讨论",
+        "bold": true
+      }
+    ],
+    "text": "无理财相关讨论"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "美团支付",
+        "bold": true
+      }
+    ],
+    "text": "美团支付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "0",
+        "bold": true
+      }
+    ],
+    "text": "0"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "0%",
+        "bold": true
+      }
+    ],
+    "text": "0%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "-",
+        "bold": true
+      }
+    ],
+    "text": "-"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "无理财相关讨论",
+        "bold": true
+      }
+    ],
+    "text": "无理财相关讨论"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "云闪付",
+        "bold": true
+      }
+    ],
+    "text": "云闪付"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "0",
+        "bold": true
+      }
+    ],
+    "text": "0"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "0%",
+        "bold": true
+      }
+    ],
+    "text": "0%"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "-",
+        "bold": true
+      }
+    ],
+    "text": "-"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "无理财相关讨论",
+        "bold": true
+      }
+    ],
+    "text": "无理财相关讨论"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "理财场景的竞争格局与贷款完全不同。支付宝依然称王，且负面率仅为3.0%——余额宝已经成为“国民级理财”入口，用户即使吐槽收益低也不会轻易改变使用习惯。微信支付理财通的理财话题量虽不少（32条），但负面率高达21.9%，用户普遍认为“理财通产品力不行、收益不及预期”，这是微信支付在金融理财赛道的明确短板。",
+        "bold": false
+      }
+    ],
+    "text": "理财场景的竞争格局与贷款完全不同。支付宝依然称王，且负面率仅为3.0%——余额宝已经成为“国民级理财”入口，用户即使吐槽收益低也不会轻易改变使用习惯。微信支付理财通的理财话题量虽不少（32条），但负面率高达21.9%，用户普遍认为“理财通产品力不行、收益不及预期”，这是微信支付在金融理财赛道的明确短板。"
+  },
+  {
+    "heading": "Heading1",
+    "is_list": false,
+    "runs": [
+      {
+        "text": "六、海外布局对比",
+        "bold": true
+      }
+    ],
+    "text": "六、海外布局对比"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "微信支付AI话题渗透率达22.7%，远超第二名美团支付（16.6%）。主要驱动力是DeepSeek与微信生态的深度结合引发的“全民玩AI”话题。抖音支付的豆包在小红书上创造了单篇赞14.5万的现象级热帖，但未转化为支付或金融场景的讨论。云闪付AI话题仅有1条，几乎完全缺席，反映银联体系在新技术话题上的滞后。",
+        "bold": false
+      }
+    ],
+    "text": "微信支付AI话题渗透率达22.7%，远超第二名美团支付（16.6%）。主要驱动力是DeepSeek与微信生态的深度结合引发的“全民玩AI”话题。抖音支付的豆包在小红书上创造了单篇赞14.5万的现象级热帖，但未转化为支付或金融场景的讨论。云闪付AI话题仅有1条，几乎完全缺席，反映银联体系在新技术话题上的滞后。"
+  },
+  {
+    "heading": "Heading2",
+    "is_list": false,
+    "runs": [
+      {
+        "text": "海外布局",
+        "bold": true
+      }
+    ],
+    "text": "海外布局"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "海外话题呈现三条差异化路径：",
+        "bold": false
+      }
+    ],
+    "text": "海外话题呈现三条差异化路径："
+  },
+  {
+    "heading": null,
+    "is_list": true,
+    "runs": [
+      {
+        "text": "美团（KeeTa出海香港）：以“配送体验”切入，用户评价极高，是目前口碑最好的出海案例",
+        "bold": false
+      }
+    ],
+    "text": "美团（KeeTa出海香港）：以“配送体验”切入，用户评价极高，是目前口碑最好的出海案例"
+  },
+  {
+    "heading": null,
+    "is_list": true,
+    "runs": [
+      {
+        "text": "抖音（TikTok Shop全球化）：以“内容电商”带动支付讨论，规模大但信任度待验证",
+        "bold": false
+      }
+    ],
+    "text": "抖音（TikTok Shop全球化）：以“内容电商”带动支付讨论，规模大但信任度待验证"
+  },
+  {
+    "heading": null,
+    "is_list": true,
+    "runs": [
+      {
+        "text": "微信（NFC境外支付）：以“工具便利性”取胜，“微信当VISA刷”获用户好评",
+        "bold": false
+      }
+    ],
+    "text": "微信（NFC境外支付）：以“工具便利性”取胜，“微信当VISA刷”获用户好评"
+  },
+  {
+    "heading": null,
+    "is_list": true,
+    "runs": [
+      {
+        "text": "云闪付海外话题为零，与其“62开头卡”境外优势严重脱节，是最大的营销缺口",
+        "bold": false
+      }
+    ],
+    "text": "云闪付海外话题为零，与其“62开头卡”境外优势严重脱节，是最大的营销缺口"
+  },
+  {
+    "heading": "Heading1",
+    "is_list": false,
+    "runs": [
+      {
+        "text": "七、策略建议",
+        "bold": true
+      }
+    ],
+    "text": "七、策略建议"
+  },
+  {
+    "heading": null,
+    "is_list": true,
+    "runs": [
+      {
+        "text": "“AI风控透明度”应成为行业标准。微信支付和云闪付均因AI风控误判遭遇重大负面事件，建议各平台引入“风控决策可解释”机制，让用户理解为何被限制，而不是只收到一个“异常”通知",
+        "bold": false
+      }
+    ],
+    "text": "“AI风控透明度”应成为行业标准。微信支付和云闪付均因AI风控误判遭遇重大负面事件，建议各平台引入“风控决策可解释”机制，让用户理解为何被限制，而不是只收到一个“异常”通知"
+  },
+  {
+    "heading": null,
+    "is_list": true,
+    "runs": [
+      {
+        "text": "自动续费治理迫在眉睫。抖音、美团、京东均有自动续费/扣费类客诉，315前后集中爆发。如监管进一步收紧，现有商业模式将受直接冲击",
+        "bold": false
+      }
+    ],
+    "text": "自动续费治理迫在眉睫。抖音、美团、京东均有自动续费/扣费类客诉，315前后集中爆发。如监管进一步收紧，现有商业模式将受直接冲击"
+  },
+  {
+    "heading": null,
+    "is_list": true,
+    "runs": [
+      {
+        "text": "支付宝的金融主场地位非牢不可破。花呗负面率上升和京东金融、分付的声量增长说明竞争者正在分流，支付宝需要重新审视花呗的用户体验和信息透明度",
+        "bold": false
+      }
+    ],
+    "text": "支付宝的金融主场地位非牢不可破。花呗负面率上升和京东金融、分付的声量增长说明竞争者正在分流，支付宝需要重新审视花呗的用户体验和信息透明度"
+  },
+  {
+    "heading": null,
+    "is_list": true,
+    "runs": [
+      {
+        "text": "微信理财通需要“补课”。负面率高达21.9%，用户普遍对产品力不满。微信支付在AI和社交场景上有明确优势，但金融理财赛道与支付宝差距还在拉大",
+        "bold": false
+      }
+    ],
+    "text": "微信理财通需要“补课”。负面率高达21.9%，用户普遍对产品力不满。微信支付在AI和社交场景上有明确优势，但金融理财赛道与支付宝差距还在拉大"
+  },
+  {
+    "heading": null,
+    "is_list": true,
+    "runs": [
+      {
+        "text": "海外竞争已进入“三路线并进”阶段。美团“本地生活服务出海”、抖音“内容电商出海”、微信“支付工具出海”三条路径同时展开，谁能率先建立“本地化信任”谁将胜出",
+        "bold": false
+      }
+    ],
+    "text": "海外竞争已进入“三路线并进”阶段。美团“本地生活服务出海”、抖音“内容电商出海”、微信“支付工具出海”三条路径同时展开，谁能率先建立“本地化信任”谁将胜出"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "— 报告完 —",
+        "bold": false
+      }
+    ],
+    "text": "— 报告完 —"
+  },
+  {
+    "heading": null,
+    "is_list": false,
+    "runs": [
+      {
+        "text": "数据来源：小红书公开数据  |  分析工具：FintechInsight舆情系统",
+        "bold": false
+      }
+    ],
+    "text": "数据来源：小红书公开数据  |  分析工具：FintechInsight舆情系统"
+  }
+]
